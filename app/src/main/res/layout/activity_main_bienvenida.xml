@@ -74,7 +74,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginEnd="32dp"
             android:autoText="true"
-            android:onClick="abreActivityInicio"
+            android:onClick="abreActivityPrincipal"
             android:background="@drawable/button_rounded"
             android:text="Iniciar sesión"
             app:layout_constraintBottom_toBottomOf="parent"

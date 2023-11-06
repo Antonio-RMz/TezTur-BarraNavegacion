@@ -69,4 +69,15 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+
+    // Java language implementation
+    implementation ("androidx.navigation:navigation-fragment:2.5.3")
+    implementation ("androidx.navigation:navigation-ui:2.5.3")
+    implementation ("androidx.cardview:cardview:1.0.0")
+
+    //implementacion de picasso
+
+    implementation ("com.squareup.picasso:picasso:2.5.2")
+
 }
